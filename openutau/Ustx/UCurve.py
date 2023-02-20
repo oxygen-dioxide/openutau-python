@@ -1,7 +1,7 @@
 #reference: https://github.com/stakira/OpenUtau/blob/master/OpenUtau.Core/Ustx/UCurve.cs
 
 from typing import List, Optional
-from .UExpression import UExpressionDescriptor
+from .uexpression import UExpressionDescriptor
 
 class UCurve:
     interval:int = 5

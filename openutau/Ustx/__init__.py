@@ -1,6 +1,6 @@
 import yaml
 
-from .UProject import UProject
+from .uproject import UProject
 
 from typing import List, Union
 

@@ -2,8 +2,8 @@
 from sortedcontainers import SortedSet
 from typing import List
 
-from .UNote import UNote
-from .UCurve import UCurve
+from .unote import UNote
+from .ucurve import UCurve
 
 class UPart:
     name:str = "New Part"

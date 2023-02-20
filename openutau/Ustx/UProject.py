@@ -2,9 +2,9 @@
 
 from typing import List,Dict
 
-from .UExpression import UExpressionDescriptor
-from .UTrack import UTrack
-from .UPart import UVoicePart, UWavePart
+from .uexpression import UExpressionDescriptor
+from .utrack import UTrack
+from .upart import UVoicePart, UWavePart
 
 class UTempo:
     position:int
